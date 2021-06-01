@@ -364,7 +364,7 @@ def wandb_parameters(parser):
                         type=str,
                         help='Options are currently: wandb & comet')
     parser.add_argument('--wandb_key',
-                        default='5e066a3ac217133736177d46ced7308a954bcae1',
+                        default='<your_key_here>',
                         type=str,
                         help='Options are currently: wandb & comet')
     parser.add_argument(
