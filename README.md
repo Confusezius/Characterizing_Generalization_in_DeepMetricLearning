@@ -1,4 +1,6 @@
-# Characterizing Generalization under Out-of-Distribution shifts in Deep Metric Learning
+# This repo will be updated in the coming days to make it easier to use.
+
+## Characterizing Generalization under Out-of-Distribution shifts in Deep Metric Learning
 
 __Links:__ [[Paper]](https://arxiv.org/abs/2107.09562v1)
 
